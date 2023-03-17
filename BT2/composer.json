@@ -1,0 +1,16 @@
+{
+    "name": "btt3/bt2",
+    "description": "bai tap 2",
+    "authors": [
+        {
+            "name": "Manh-Ne",
+            "email": "manhnguyenquang13@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "twig/twig": "^3.5"
+    }
+    
+}

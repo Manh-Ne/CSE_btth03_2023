@@ -1,0 +1,15 @@
+{
+    "name": "manh/bt3",
+    "autoload": {
+        "psr-4": {
+            "Manh\\Bt3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Manh-Ne",
+            "email": "manhnguyenquang13@gmail.com"
+        }
+    ],
+    "require": {}
+}
